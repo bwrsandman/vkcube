@@ -12,7 +12,7 @@
 #include <xcb/xcb.h>
 
 #include <wayland-client.h>
-#include <xdg-shell-unstable-v6-client-protocol.h>
+#include "xdg-shell-unstable-v6-client-protocol.h"
 
 #define VK_USE_PLATFORM_XCB_KHR
 #define VK_USE_PLATFORM_WAYLAND_KHR
